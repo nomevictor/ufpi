@@ -1,0 +1,6 @@
+Para compilar pelo linux:
+
+gcc main.c jogador.c -o main
+
+Para testar usando o Dev C++, é necessário criar um projeto
+e adicionar todos os arquivos dentro para o dev C++ reconhecer
