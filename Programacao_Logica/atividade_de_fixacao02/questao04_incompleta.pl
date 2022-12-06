@@ -1,0 +1,1 @@
+minimoMultiplo(R):-
